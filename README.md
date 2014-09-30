@@ -1,9 +1,7 @@
-﻿Introdução a Técnicas de Programação - 2014.2
-Descrição de projeto
+﻿# FLOOD IT #
 
-
-
-# FLOOD IT #
+Este documento é de autoria coletiva de docentes da UFRN atuando nos
+componentes curriculares ITP/PTP (Introdução a Técnicas de Programação e qPrática de Técnicas de Programação) no período letivo 2014.2.
 
 ## Introdução ##
 
